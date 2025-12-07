@@ -7,10 +7,6 @@
 - **Базы данных** PostgreSQL / SQLite / SQLAlchemy
 - **Деплой** Docker / Nginx / Linux
 
-## 📊 Статистика:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yareezey&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yareezey&layout=compact&theme=dark)
-
 ## 🛠️ Мой стек технологий:
 **Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +31,7 @@
 - ✅ SQLAlchemy + SQLite
 - ✅ Inline клавиатуры
 
-### 🎮 [Quiz Master Bot](https://github.com/Yareezey/quiz-bot) *(в разработке)*
+### 🎮 Quiz Master Bot *(в разработке)*
 Интерактивная Telegram викторина с системой рейтингов
 - 🚧 Игровая механика
 - 🚧 Leaderboard система
@@ -59,13 +55,10 @@
 
 ## 📫 Как со мной связаться:
 - **Email:** yariksamus5@gmail.com
-- **GitHub:** https://github.com/Yareezey
+- **GitHub:** [GitHub](https://github.com/Yareezey)
 
 ## 💼 Доступен для:
 - Фриланс-проектов
 - Удалённой работы
 - Разовых заказов
 - Консультаций по разработке ботов
-
----
-⭐ **Мотивация:** "Код — это поэзия, которую понимают компьютеры и восхищаются разработчики"
